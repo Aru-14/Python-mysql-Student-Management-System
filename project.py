@@ -1,5 +1,4 @@
-# Arunima Paunikar 
-#project
+# Student Database Management System
 
 import mysql.connector
 mydb = mysql.connector.connect(
