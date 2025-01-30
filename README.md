@@ -40,9 +40,9 @@ Modify the database connection details in the code according to your setup:
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Anu@14aug",
+    password="your_password",
     auth_plugin="mysql_native_password",
-    database="DB_4_1"
+    database="your_database(here DB_4_1)"
 )
 ```
 
