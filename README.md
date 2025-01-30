@@ -30,7 +30,7 @@ pip install mysql-connector-python
 1. Open MySQL Workbench or your preferred MySQL client.
 2. Create a database using the following SQL query:
    ```sql
-   CREATE DATABASE DB_4_1;
+   CREATE DATABASE your_database(here DB_4_1);
    ```
 3. Grant necessary privileges to your MySQL user (`root` in this example).
 
