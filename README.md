@@ -1,4 +1,3 @@
-# Python-mysql-Student-Management-System
 # Student Management System using MySQL Connector
 
 ## Project Overview
